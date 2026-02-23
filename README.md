@@ -12,6 +12,9 @@ A clean and interactive Tic-Tac-Toe game built to practice core JavaScript conce
 * **CSS3** - Styling & Layout
 * **JavaScript (ES6)** - Game Logic & UI Updates
 
+## 🔗 Live Demo
+[👉 Play Tic-Tac-Toe Live Here](https://ikchiragcore.github.io/tic-tac-toe-js/)
+
 ## 🧠 What I Practiced
 * Working with Event Listeners.
 * Using Arrays to track game state.
